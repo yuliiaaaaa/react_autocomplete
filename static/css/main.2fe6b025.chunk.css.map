@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,WAGC,wBAAyB,CAC1B,kBAGC,eAAgB,CAChB,aAAc","file":"main.2fe6b025.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.is-active {\n  background-color: #9ea1ae;\n}\n\n.dropdown-content {\n  max-height: 13em;\n  overflow: auto;\n}\n"]}
